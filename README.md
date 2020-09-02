@@ -3,7 +3,7 @@ resources for quantum computing
 
 ### Videos
 * Scott Aaronson - Quantum Computing and Information: https://www.youtube.com/watch?v=s1bxNomtaTE&t=5813s
-* ohn Preskill - Introduction to Quantum Information (Part 1): https://www.youtube.com/watch?v=Q4xBlSi_fOs
+* John Preskill - Introduction to Quantum Information (Part 1): https://www.youtube.com/watch?v=Q4xBlSi_fOs
 
 ### Qiskit resources
 
