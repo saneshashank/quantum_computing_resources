@@ -16,3 +16,5 @@ resources for quantum computing
 * Quiskit textbook: https://qiskit.org/textbook/preface.html
 
 * Quantum Computing lecture series: https://qiskit.org/learn/intro-qc-qh/?utm_source=Twitter&utm_medium=Social&utm_campaign=Learn-Intro
+
+* Glossary of Quantum Gates: https://quantum-computing.ibm.com/docs/iqx/operations-glossary
