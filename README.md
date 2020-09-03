@@ -20,3 +20,9 @@ resources for quantum computing
 * Glossary of Quantum Gates: https://quantum-computing.ibm.com/docs/iqx/operations-glossary
 
 * Introducing qiskit india challenge 2020: https://medium.com/qiskit/introducing-the-qiskit-india-challenge-a-taste-of-quantum-machine-learning-for-qiskitters-in-india-4780ddbb03ab
+
+### Hardware
+
+* How Do I Build a Quantum Computer in My House?: https://medium.com/qiskit/how-do-i-build-a-quantum-computer-in-my-house-1c7e9dc0c242
+
+* https://turbofuture.com/computers/build-quantum-computer
