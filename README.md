@@ -19,9 +19,15 @@ resources for quantum computing
 
 * Glossary of Quantum Gates: https://quantum-computing.ibm.com/docs/iqx/operations-glossary
 
+* Summary of Quantum Operations: https://qiskit.org/documentation/tutorials/circuits/3_summary_of_quantum_operations.html
+
 * Introducing qiskit india challenge 2020: https://medium.com/qiskit/introducing-the-qiskit-india-challenge-a-taste-of-quantum-machine-learning-for-qiskitters-in-india-4780ddbb03ab
 
 * Apply for qiskit advocate program: https://qiskit.org/advocates/
+
+------------------------------------------------------
+
+* Why does Qiskit order its qubits the way it does? https://www.youtube.com/watch?v=EiqHj3_Avps&t=1s
 
 ### Hardware
 
