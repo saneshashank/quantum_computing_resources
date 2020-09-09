@@ -36,3 +36,6 @@ resources for quantum computing
 * How Do I Build a Quantum Computer in My House?: https://medium.com/qiskit/how-do-i-build-a-quantum-computer-in-my-house-1c7e9dc0c242
 
 * https://turbofuture.com/computers/build-quantum-computer
+
+Quantum Developer - Summer Intern
+https://careers.ibm.com/ShowJob/Id/962202/Graduate-Quantum-Developer-Summer-Intern-2021/?lang=en
