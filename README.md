@@ -7,6 +7,9 @@ resources for quantum computing
 
 * SVM: https://www.youtube.com/watch?v=_PwhiWxHK8o&feature=youtu.be
 
+### News
+* https://spectrum.ieee.org/tech-talk/computing/hardware/photonic-quantum
+
 ### Qiskit resources
 
 * IBM Quantum Computing: https://quantum-computing.ibm.com/
