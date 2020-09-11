@@ -6,6 +6,9 @@ resources for quantum computing
 * John Preskill - Quantum Computing in the NISQ Era and Beyond : https://www.cornell.edu/video/john-preskill-quantum-computing-nisq-era-beyond
 * John Preskill - Introduction to Quantum Information (Part 1): https://www.youtube.com/watch?v=Q4xBlSi_fOs
 
+#### Quantum Machine Learning
+* Maria Schuld: "Innovating machine learning with near-term quantum computing: https://www.youtube.com/watch?v=Xh9pUu3-WxM
+
 * SVM: https://www.youtube.com/watch?v=_PwhiWxHK8o&feature=youtu.be
 
 ### News
