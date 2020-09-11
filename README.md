@@ -3,6 +3,7 @@ resources for quantum computing
 
 ### Videos
 * Scott Aaronson - Quantum Computing and Information: https://www.youtube.com/watch?v=s1bxNomtaTE&t=5813s
+* John Preskill - Quantum Computing in the NISQ Era and Beyond : https://www.cornell.edu/video/john-preskill-quantum-computing-nisq-era-beyond
 * John Preskill - Introduction to Quantum Information (Part 1): https://www.youtube.com/watch?v=Q4xBlSi_fOs
 
 * SVM: https://www.youtube.com/watch?v=_PwhiWxHK8o&feature=youtu.be
