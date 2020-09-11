@@ -8,6 +8,7 @@ resources for quantum computing
 
 #### Quantum Machine Learning
 * Maria Schuld: "Innovating machine learning with near-term quantum computing: https://www.youtube.com/watch?v=Xh9pUu3-WxM
+* An introduction to Quantum Machine Learning - Webinar (27-04-2020): https://www.youtube.com/watch?v=-DWng3jyBIM
 
 * SVM: https://www.youtube.com/watch?v=_PwhiWxHK8o&feature=youtu.be
 
