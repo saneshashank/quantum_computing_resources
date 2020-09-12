@@ -12,6 +12,8 @@ resources for quantum computing
 
 * SVM: https://www.youtube.com/watch?v=_PwhiWxHK8o&feature=youtu.be
 
+* PennyLane: https://pennylane.ai/qml/index.html
+
 ### News
 * https://spectrum.ieee.org/tech-talk/computing/hardware/photonic-quantum
 
