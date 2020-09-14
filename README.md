@@ -1,6 +1,9 @@
 # quantum_computing_resources
 resources for quantum computing
 
+### Papers
+* https://arxiv.org/abs/2001.03622
+
 ### Videos
 * Scott Aaronson - Quantum Computing and Information: https://www.youtube.com/watch?v=s1bxNomtaTE&t=5813s
 * John Preskill - Quantum Computing in the NISQ Era and Beyond : https://www.cornell.edu/video/john-preskill-quantum-computing-nisq-era-beyond
