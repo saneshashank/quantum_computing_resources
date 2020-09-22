@@ -6,6 +6,7 @@ resources for quantum computing
 * Expressibility and entangling capability of parameterized quantum circuits for hybrid quantum-classical algorithms: https://arxiv.org/pdf/1905.10876.pdf
 * The effect of data encoding on the expressive power of variational quantum machine learning models: https://arxiv.org/pdf/2008.08605.pdf
 * Quantum embeddings for machine learning: https://arxiv.org/pdf/2001.03622.pdf
+* Evaluating analytic gradients on quantum hardware (gradient calculation on Quantum Computing Node): https://arxiv.org/pdf/1811.11184.pdf
 
 ### Videos
 * Scott Aaronson - Quantum Computing and Information: https://www.youtube.com/watch?v=s1bxNomtaTE&t=5813s
