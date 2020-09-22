@@ -23,6 +23,9 @@ resources for quantum computing
 ### News
 * https://spectrum.ieee.org/tech-talk/computing/hardware/photonic-quantum
 
+#### News Letters
+* **The Quantum Daily (TQD)** is the leading online resource dedicated exclusively to Quantum Computing: https://thequantumdaily.com/
+
 ### Qiskit resources
 
 * IBM Quantum Computing: https://quantum-computing.ibm.com/
