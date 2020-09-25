@@ -1,5 +1,5 @@
 # Quantum_Computing_Resources
-***Quantum Computing*** is an exciting new emerging field that lies at the intersection of ***Quantum Physics, Computing and Information Theory***. Quantum Computing is a fundamentally different kind of computational paradigm which exploits the principles of quantum mechanics - especially the phenomenon of superposition and entaglement. This repository is based on my research to understand quantum computing in general and quantum machine learning in particular.
+***Quantum Computing*** is an exciting new emerging field that lies at the intersection of ***Quantum Physics, Computing, and Information Theory***. Quantum Computing is a fundamentally different kind of computational paradigm which exploits the principles of quantum mechanics - especially the phenomenon of superposition and entanglement. This repository is based on my research to understand quantum computing in general and quantum machine learning in particular.
 
 ## Videos
 
