@@ -8,6 +8,8 @@
 * John Preskill - Quantum Computing in the NISQ Era and Beyond : https://www.cornell.edu/video/john-preskill-quantum-computing-nisq-era-beyond
 * John Preskill - Introduction to Quantum Information (Part 1): https://www.youtube.com/watch?v=Q4xBlSi_fOs
 
+* CERN: A practical introduction to quantum computing: from qubits to quantum machine learning and beyond: https://indico.cern.ch/event/970903/
+
 ### Quantum Machine Learning
 * Maria Schuld: "Innovating machine learning with near-term quantum computing: https://www.youtube.com/watch?v=Xh9pUu3-WxM
 * An introduction to Quantum Machine Learning - Webinar (27-04-2020): https://www.youtube.com/watch?v=-DWng3jyBIM
@@ -28,16 +30,6 @@
 * The effect of data encoding on the expressive power of variational quantum machine learning models: https://arxiv.org/pdf/2008.08605.pdf
 * Quantum embeddings for machine learning: https://arxiv.org/pdf/2001.03622.pdf
 * Evaluating analytic gradients on quantum hardware (gradient calculation on Quantum Computing Node): https://arxiv.org/pdf/1811.11184.pdf
-
------------------------------------------------------------------------------------------------
-
-## News
-
-### General
-* https://spectrum.ieee.org/tech-talk/computing/hardware/photonic-quantum
-
-### News Letters
-* **The Quantum Daily (TQD)** is the leading online resource dedicated exclusively to Quantum Computing: https://thequantumdaily.com/
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -71,4 +63,13 @@ https://www.ibm.com/blogs/research/2020/09/2021-ibmquantum-internships/
 * How Do I Build a Quantum Computer in My House?: https://medium.com/qiskit/how-do-i-build-a-quantum-computer-in-my-house-1c7e9dc0c242
 * https://turbofuture.com/computers/build-quantum-computer
 
+-----------------------------------------------------------------------------------------------
+
+## News
+
+### General
+* https://spectrum.ieee.org/tech-talk/computing/hardware/photonic-quantum
+
+### News Letters
+* **The Quantum Daily (TQD)** is the leading online resource dedicated exclusively to Quantum Computing: https://thequantumdaily.com/
 
