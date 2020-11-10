@@ -57,6 +57,8 @@ Quantum Developer - Summer Intern
 https://careers.ibm.com/ShowJob/Id/962202/Graduate-Quantum-Developer-Summer-Intern-2021/?lang=en
 https://www.ibm.com/blogs/research/2020/09/2021-ibmquantum-internships/
 
+* IBM Quantum Challenge 2020: https://github.com/qiskit-community/IBMQuantumChallenge2020
+
 ## Hardware
 
 ### General
