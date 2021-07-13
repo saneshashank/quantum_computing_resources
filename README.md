@@ -4,6 +4,7 @@
 ## Videos
 
 ### Quantum Computing
+* Quantum computing for the curious: https://quantum.country/
 * Scott Aaronson - Quantum Computing and Information: https://www.youtube.com/watch?v=s1bxNomtaTE&t=5813s
 * John Preskill - Quantum Computing in the NISQ Era and Beyond : https://www.cornell.edu/video/john-preskill-quantum-computing-nisq-era-beyond
 * John Preskill - Introduction to Quantum Information (Part 1): https://www.youtube.com/watch?v=Q4xBlSi_fOs
@@ -16,6 +17,7 @@
 * SVM: https://www.youtube.com/watch?v=_PwhiWxHK8o&feature=youtu.be
 * PennyLane: https://pennylane.ai/qml/index.html
 * Quantum NLP: https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
+* Quantum Machine Learning and the Power of Data: https://ai.googleblog.com/2021/06/quantum-machine-learning-and-power-of.html
 
 ------------------------------------------------------------------------------------------------------------------------
 
