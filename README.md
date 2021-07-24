@@ -10,6 +10,7 @@
 * John Preskill - Introduction to Quantum Information (Part 1): https://www.youtube.com/watch?v=Q4xBlSi_fOs
 
 * CERN: A practical introduction to quantum computing: from qubits to quantum machine learning and beyond: https://indico.cern.ch/event/970903/
+(videos): https://www.youtube.com/watch?v=jwHM8AHOtJ0&list=PL6583_bOAHxYb_aW2pXoy7wF1OjuQ9LKp&index=7
 
 ### Quantum Machine Learning
 * Maria Schuld: "Innovating machine learning with near-term quantum computing: https://www.youtube.com/watch?v=Xh9pUu3-WxM
@@ -18,6 +19,8 @@
 * PennyLane: https://pennylane.ai/qml/index.html
 * Quantum NLP: https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
 * Quantum Machine Learning and the Power of Data: https://ai.googleblog.com/2021/06/quantum-machine-learning-and-power-of.html
+* Variational Quantum Eigensolver explained: https://www.mustythoughts.com/variational-quantum-eigensolver-explained
+* Quantum Approximate Optimization Algorithm explained: https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +30,7 @@
 * https://thenextweb.com/insights/2020/03/03/is-time-broken-physicists-filmed-a-quantum-measurement-but-the-moment-was-blurry/
 * Tracking the Dynamics of an Ideal Quantum Measurement: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.080401
 
-### Quantum Machine Learning
+### Quantum Machine Learning Papers
 * Expressibility and entangling capability of parameterized quantum circuits for hybrid quantum-classical algorithms: https://arxiv.org/pdf/1905.10876.pdf
 * The effect of data encoding on the expressive power of variational quantum machine learning models: https://arxiv.org/pdf/2008.08605.pdf
 * Quantum embeddings for machine learning: https://arxiv.org/pdf/2001.03622.pdf
